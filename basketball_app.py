@@ -8,7 +8,7 @@ import numpy as np
 st.title('NBA Player Stats Explorer')
 
 st.markdown("""
-This app performs simple webscraping of NBA player stats data!
+This app performs simple webscraping of NBA player stats data! By Kirill Borisov.
 * **Python libraries:** base64, pandas, streamlit
 * **Data source:** [Basketball-reference.com](https://www.basketball-reference.com/).
 """)
